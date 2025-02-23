@@ -1,1 +1,1 @@
-Image Processing practise
+Image Processing practise.
